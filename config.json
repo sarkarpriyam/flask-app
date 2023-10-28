@@ -1,0 +1,30 @@
+{
+    "params":
+    {
+        "url": "https://whcnniwcifmqziqotkbm.supabase.co",
+        "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndoY25uaXdjaWZtcXppcW90a2JtIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTgzMjgxOTgsImV4cCI6MjAxMzkwNDE5OH0.-VJkWLwW_wsTc1R7Vcg0R6eHe_7NIYsPARNQYBCZhhE"
+    },
+    "index_properties":
+    {   
+        "title": "Tech Bar - The Best Tech Content",
+        "brand_name": "Tech Bar",
+        "heading_index": "Tech Bar",
+        "sub_heading": "A Blog for Tech Enthusiasts",
+        "footer_text": "www.techbar.com 2023"
+    },
+    "about_properties":
+    {
+        "title": "Tech Bar - About",
+        "heading_about": "About Me",
+        "sub_heading": "This is what I do.",
+        "about_paragraph_1": "I am Priyam Sarkar, a tech enthusiast with a passion for programming and a hunger for learning new technologies. Code isn't just my job it is my canvas, where I craft innovative solutions and turn ideas into reality.",
+        "about_paragraph_2": "My world revolves around code. I love exploring new technologies and mastering them, turning challenges into opportunities for growth. I see learning as a lifelong journey, and I'm dedicated to pushing the boundaries of what's possible.",
+        "about_paragraph_3": "My portfolio isn't just a display of what I've learned; it's a showcase of what I've created. From web development to AI, I thrive on implementing new ideas and making a real impact. Let's connect and code the future together at priyamsarkar876@yahoo.com."
+    },
+    "post_properties":
+    {
+        "title": "Tech Bar - Posts",
+        "heading_post": "Post your content",
+        "sub_heading": "Submit your content in the form below"
+    }
+}
